@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "advertising"
-featured_image: "photo_2026-09-23_21-00-31.webp"
+featured_image: "df26bf250f60.webp"
 featured_image_alt: "تسويق متخصص في السعودية"
 ---
 
