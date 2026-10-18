@@ -5,7 +5,7 @@ focus_keyword: "إدارة الحملات الإعلانية والسوشيال 
 description: "اكتشف أفضل طرق إدارة الحملات الإعلانية والسوشيال ميديا في الرياض. تعلم كيفية استهداف الجمهور، كتابة المحتوى، وتحليل النتائج لزيادة المبيعات وعائد الاستثمار."
 slug: "social-media-campaign-management"
 date: "2026-09-13T11:02:00+03:00"
-draft: false
+draft: true
 archived: false
 categories:
   - "advertising"
