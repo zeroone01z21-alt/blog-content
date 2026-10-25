@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "ecommerce"
-featured_image: "16957be37ffc.webp"
+featured_image: "zero-to-one_.webp"
 featured_image_alt: "كيف تسوق منتج في السعودية"
 ---
 
