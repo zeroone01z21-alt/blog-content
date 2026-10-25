@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "seo"
-featured_image: "whatsapp-image-2026-10-17-at-19-33-05.webp"
+featured_image: "6d52d43540dd.webp"
 featured_image_alt: "أفضل شركة تسويق الكتروني في الرياض، السعودية | زيرو تو وان"
 ---
 
