@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "advertising"
-featured_image: "_.webp"
+featured_image: "zero2one-google-ads-campaign-banner.webp"
 featured_image_alt: "كيف اعمل اعلان في جوجل"
 ---
 
