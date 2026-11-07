@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "advertising"
-featured_image: "e912cf057ff6.webp"
+featured_image: "_.webp"
 featured_image_alt: "كيف اعمل اعلان في جوجل"
 ---
 
