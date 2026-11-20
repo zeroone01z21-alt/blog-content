@@ -9,7 +9,7 @@ draft: false
 archived: false
 categories:
   - "seo"
-featured_image: "ae2dd811bdc5.webp"
+featured_image: "10.webp"
 featured_image_alt: "محركات البحث"
 ---
 
