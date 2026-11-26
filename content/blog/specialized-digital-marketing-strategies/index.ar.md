@@ -6,7 +6,7 @@ description: "اكتشف أسرار بناء خططتسويق متخصص في ا
 slug: "specialized-digital-marketing-strategies"
 date: "2026-09-23T21:32:00-07:00"
 draft: false
-archived: false
+archived: true
 categories:
   - "advertising"
 featured_image: "df26bf250f60.webp"
