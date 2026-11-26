@@ -6,7 +6,7 @@ description: "كتشف أهم استراتيجيات تحسين محركات ا�
 slug: "seo-strategies-competitor-analysis"
 date: "2026-09-16T10:07:00-07:00"
 draft: false
-archived: false
+archived: true
 categories:
   - "seo"
 featured_image: "photo_2026-09-16_09-57-12.webp"
