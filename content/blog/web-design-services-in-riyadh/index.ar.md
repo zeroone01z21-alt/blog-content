@@ -6,7 +6,7 @@ description: "أفضل خدمات تصميم مواقع إلكترونية في 
 slug: "web-design-services-in-riyadh"
 date: "2026-09-13T11:02:00+03:00"
 draft: false
-archived: false
+archived: true
 categories:
   - "ecommerce"
 featured_image: "photo_2026-09-13_10-19-42.webp"
