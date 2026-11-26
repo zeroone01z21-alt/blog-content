@@ -6,7 +6,7 @@ description: "A practical guide to choosing the right web development company ba
 slug: "how-to-choose-web-development-company"
 date: "2026-08-07T20:22:00+03:00"
 lastmod: "2026-08-07T20:22:00+03:00"
-draft: false
+draft: true
 archived: true
 categories:
   - "web-design"
